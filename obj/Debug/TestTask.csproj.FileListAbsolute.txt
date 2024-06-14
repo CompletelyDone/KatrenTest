@@ -1,0 +1,7 @@
+D:\PetProjects\Katren\TestTask\bin\Debug\TestTask.exe.config
+D:\PetProjects\Katren\TestTask\bin\Debug\TestTask.exe
+D:\PetProjects\Katren\TestTask\bin\Debug\TestTask.pdb
+D:\PetProjects\Katren\TestTask\obj\Debug\TestTask.csproj.AssemblyReference.cache
+D:\PetProjects\Katren\TestTask\obj\Debug\TestTask.csproj.CoreCompileInputs.cache
+D:\PetProjects\Katren\TestTask\obj\Debug\TestTask.exe
+D:\PetProjects\Katren\TestTask\obj\Debug\TestTask.pdb

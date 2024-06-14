@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PetProjects\\Katren\\TestTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|d:\\petprojects\\katren\\testtask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|d:\\petprojects\\katren\\testtask\\chartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|solutionrelative:chartype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|d:\\petprojects\\katren\\testtask\\loremipsum.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|solutionrelative:loremipsum.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|d:\\petprojects\\katren\\testtask\\letterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|solutionrelative:letterstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|d:\\petprojects\\katren\\testtask\\readonlystream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E9922F2-AF75-4807-B6E4-F74499317C39}|TestTask.csproj|solutionrelative:readonlystream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LetterStats.cs",
+              "DocumentMoniker": "D:\\PetProjects\\Katren\\TestTask\\LetterStats.cs",
+              "RelativeDocumentMoniker": "LetterStats.cs",
+              "ToolTip": "D:\\PetProjects\\Katren\\TestTask\\LetterStats.cs",
+              "RelativeToolTip": "LetterStats.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:42:55.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CharType.cs",
+              "DocumentMoniker": "D:\\PetProjects\\Katren\\TestTask\\CharType.cs",
+              "RelativeDocumentMoniker": "CharType.cs",
+              "ToolTip": "D:\\PetProjects\\Katren\\TestTask\\CharType.cs",
+              "RelativeToolTip": "CharType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T07:25:29.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoremIpsum.txt",
+              "DocumentMoniker": "D:\\PetProjects\\Katren\\TestTask\\LoremIpsum.txt",
+              "RelativeDocumentMoniker": "LoremIpsum.txt",
+              "ToolTip": "D:\\PetProjects\\Katren\\TestTask\\LoremIpsum.txt",
+              "RelativeToolTip": "LoremIpsum.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-06-14T06:57:53.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReadOnlyStream.cs",
+              "DocumentMoniker": "D:\\PetProjects\\Katren\\TestTask\\ReadOnlyStream.cs",
+              "RelativeDocumentMoniker": "ReadOnlyStream.cs",
+              "ToolTip": "D:\\PetProjects\\Katren\\TestTask\\ReadOnlyStream.cs",
+              "RelativeToolTip": "ReadOnlyStream.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T06:57:05.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PetProjects\\Katren\\TestTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\PetProjects\\Katren\\TestTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwCAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T05:21:34.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
